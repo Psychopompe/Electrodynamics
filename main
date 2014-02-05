@@ -25,6 +25,6 @@ cite,enumerate,float,mathenv,mathtools,hyperref}
 %\setcounter{page}{2}
 %\tableofcontents 
  \newpage
- \section{1}
+ %\section{lorem ipsum}
 
 \end{document}
