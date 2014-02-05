@@ -1,0 +1,30 @@
+\documentclass[12pt, a4paper]{amsbook}
+
+\usepackage{mathtext,amssymb,amsfonts,amsmath,
+cite,enumerate,float,mathenv,mathtools,hyperref}
+
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
+\usepackage[dvips]{graphicx}
+\graphicspath{{images/}}
+
+\usepackage{geometry}
+\geometry{left=0.5cm}
+\geometry{right=0.5cm}
+\geometry{top=1cm}
+\geometry{bottom=1cm}
+
+\bibliographystyle{unsrt}
+
+\numberwithin{equation}{chapter}
+
+\begin{document}
+%\input{title}
+%\setcounter{page}{2}
+%\tableofcontents 
+ \newpage
+ \section{1}
+
+\end{document}
