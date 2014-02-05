@@ -24,7 +24,7 @@ cite,enumerate,float,mathenv,mathtools,hyperref}
 %\input{title}
 %\setcounter{page}{2}
 %\tableofcontents 
- \newpage
+ %\newpage
  %\section{lorem ipsum}
-
+\input{problem4}
 \end{document}
